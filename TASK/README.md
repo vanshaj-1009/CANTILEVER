@@ -1,12 +1,17 @@
-Task Management
+<h1>Task Management</h1>
+<br>
 User registration and login/logout functionality.
-Create, read, update, and delete (CRUD) operations for
-tasks.
+<br>
+Create, read, update, and delete (CRUD) operations for tasks.
+<br>
 Task filtering and sorting options.
+<br>
 Responsive design for mobile and desktop.
-Frontend: HTML, CSS, JavaScript (React or Vue.js
-recommended)
-Backend: Node.js (Express.js), firebase, MongoDB (for
-database)
+<br>
+Frontend: HTML, CSS, JavaScript (React or Vue.js recommended)
+<br>
+Backend: Node.js (Express.js), firebase, MongoDB (for database)
+<br>
 Authentication: JSON Web Tokens (JWT)
+<br>
 Deployment: Heroku (for backend), Netlify (for frontend)
